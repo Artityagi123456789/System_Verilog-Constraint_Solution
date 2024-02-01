@@ -21,6 +21,16 @@ https://edaplayground.com/x/PVnU
 Code8: Genrate 32_bit random_number.sv
 https://edaplayground.com/x/PVne
 
+Code9: Genrate Value using $onehot.sv
+https://edaplayground.com/x/Dtsy
+
+Code10: Constraint for Non_repeated value.sv
+https://edaplayground.com/x/KHeq
+
+
+
+
+
 
 
 
