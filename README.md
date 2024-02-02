@@ -27,8 +27,8 @@ https://edaplayground.com/x/Dtsy
 Code10: Constraint for Non_repeated value.sv
 https://edaplayground.com/x/KHeq
 
-
-
+Code12: Constraint to multiples power2.sv
+https://edaplayground.com/x/vJi9
 
 
 
