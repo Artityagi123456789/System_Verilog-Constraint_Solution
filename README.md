@@ -30,6 +30,8 @@ https://edaplayground.com/x/KHeq
 Code12: Constraint to multiples power2.sv
 https://edaplayground.com/x/vJi9
 
+Code13: 64-bit variable with exactly 5 consecutive 1s https://edaplayground.com/x/CRaG
+
 
 
 
